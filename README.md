@@ -4,8 +4,7 @@
 
 <img src="Studentcoin.svg" alt="Icon" class="inline" width="77" height="77"/>
 
-
-
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ### Student coin bonus code - great bonus program
 
