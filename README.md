@@ -1,7 +1,5 @@
 # Student Coin Bonus Code **Exyfxvhhmd**
 
-[StudentCoin Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
-
 <img src="Studentcoin.svg" alt="Icon" class="inline" width="77" height="77"/>
 <meta property="og:image" content="meta.png">
 
@@ -12,7 +10,8 @@
 
 Great bonus program.
 
-**Student Coin** is in ICO Launchpad phase, a platform aiming to improve knowledge about cryptocurrency worldwide, collaborating with more then 500+ universities has at heart the STC (student coin) token.
+**Student Coin** is in ICO [Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
+ phase, a platform aiming to improve knowledge about cryptocurrency worldwide, collaborating with more then 500+ universities has at heart the STC (student coin) token.
 
 The platform covers a wide spectrum for learning, from coin details to quizzes, different metrics on how to analyze other cryptocurrencies, it makes it definitely an essential contributor to the crypto world.
 During ICO it has a good referral program, be sure to use this code Exyfxvhhmd to get 5% bonus from all your acquisitions.
