@@ -1,6 +1,4 @@
-## Student Coin Bonus Code 
-
-# Exyfxvhhmd
+# Student Coin Bonus Code **Exyfxvhhmd**
 
 [StudentCoin Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
 
