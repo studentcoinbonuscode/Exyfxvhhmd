@@ -2,7 +2,13 @@
 
 [StudentCoin Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
 
-Student coin bonus code - great bonus program
+<a href="https://studentcoin.app/?ref=Exyfxvhhmd">
+    <img src="Studentcoin.svg" alt="Icon" class="inline" width=77" height="77"/>
+</a>
+
+
+
+##### Student coin bonus code - great bonus program
 
 **Student Coin** is in ICO Launchpad phase, a platform aiming to improve knowledge about cryptocurrency worldwide, collaborating with more then 500+ universities has at heart the STC (student coin) token.
 
