@@ -1,6 +1,6 @@
 # Student Coin Bonus Code Exyfxvhhmd
 
-[StudentCoin Launchpad](https://stctoken.de/?ref=Exyfxvhhmd)
+[StudentCoin Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-194571179-2">
