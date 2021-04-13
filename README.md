@@ -2,9 +2,7 @@
 
 [StudentCoin Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
 
-<a href="https://studentcoin.app/?ref=Exyfxvhhmd">
-    <img src="Studentcoin.svg" alt="Icon" class="inline" width=77" height="77"/>
-</a>
+<img src="Studentcoin.svg" alt="Icon" class="inline" width=77" height="77"/>
 
 
 
