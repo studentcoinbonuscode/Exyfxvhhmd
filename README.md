@@ -3,7 +3,7 @@
 [StudentCoin Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
 
 <img src="Studentcoin.svg" alt="Icon" class="inline" width="77" height="77"/>
-<meta property="og:image" content="Studentcoin.svg">
+<meta property="og:image" content="meta.png">
 
 
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
