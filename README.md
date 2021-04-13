@@ -10,7 +10,7 @@
 
 # Exyfxvhhmd
 
-### Student coin bonus code - great bonus program
+Student coin bonus code - great bonus program
 
 **Student Coin** is in ICO Launchpad phase, a platform aiming to improve knowledge about cryptocurrency worldwide, collaborating with more then 500+ universities has at heart the STC (student coin) token.
 
