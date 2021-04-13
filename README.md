@@ -11,7 +11,7 @@
 **Student Coin** is in ICO [Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
  phase. A platform aiming to improve knowledge about cryptocurrency worldwide, collaborating with more then 500+ universities has at heart the STC (student coin) token.
 
-The platform covers a wide spectrum for learning, from coin details to quizzes, different metrics on how to analyze other cryptocurrencies, it makes it definitely an essential contributor to the crypto world.
+The platform covers a wide spectrum for learning, from coin details to quizzes, different metrics on how to analyze other cryptocurrencies, it makes it definitely an **essential contributor** to the crypto world.
 During ICO it has a good referral program, be sure to use this code Exyfxvhhmd to get 5% bonus from all your acquisitions.
 
 Alongside learning it has another practical part where the students can make their own tokens for educational purposes, trade them and also create loans for the university taxes. These will be covered in the Wallet and Exchange sections.
