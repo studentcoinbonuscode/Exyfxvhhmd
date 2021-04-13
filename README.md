@@ -1,4 +1,4 @@
-# Student Coin Bonus Code **Exyfxvhhmd** Great bonus program.
+# Student Coin Bonus Code **Exyfxvhhmd** Great bonus program
 
 <img src="Studentcoin.svg" alt="Icon" class="inline" width="77" height="77"/>
 <meta property="og:image" content="meta.png">
