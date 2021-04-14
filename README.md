@@ -2,6 +2,7 @@
 
 <img src="Studentcoin.svg" alt="Icon" class="inline" width="77" height="77"/>
 <meta property="og:image" content="meta.png">
+<meta name="google-site-verification" content="kTrUGLJ-kWo92nXwpUIoNHwOHVKeVtVYEeEBDb_HQaA" />
 
 
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
