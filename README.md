@@ -8,7 +8,7 @@
 
 # Exyfxvhhmd
 
-**Student Coin** is in ICO [Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
+**Student Coin** is in [ICO Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
  phase. A platform aiming to improve knowledge about cryptocurrency worldwide, collaborating with more then 500+ universities has at heart the STC (student coin) token.
 
 The platform covers a wide spectrum for learning, from coin details to quizzes, different metrics on how to analyze other cryptocurrencies, it makes it definitely an **essential contributor** to the crypto world.
