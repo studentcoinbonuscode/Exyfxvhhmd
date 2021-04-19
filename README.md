@@ -7,7 +7,7 @@
 
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-# [Exyfxvhhmd](https://studentcoinbonuscode.github.io/Exyfxvhhmd/)
+# [Exu75m3alz](https://studentcoinbonuscode.github.io/Exyfxvhhmd/)
 
 **Student Coin** is in [ICO Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
  phase. A platform aiming to improve knowledge about cryptocurrency worldwide, collaborating with more then 500+ universities has at heart the STC (student coin) token.
