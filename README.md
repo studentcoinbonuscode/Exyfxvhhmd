@@ -22,6 +22,19 @@ It is *pre-listed* on Cointiger and Uniswap and it has big plans for the followi
 Student Coin initial coin offering had a successful **quick start raising $3.5M in just the first month** of the Launchpad so be sure to take advantage of the bonus code and their early bird bonus code that is included only on the platform and join Student Coin, a token that can easily be one of the foundation stones in the revolution of cryptocurrencies.
 
 
+https://www.instagram.com/studentcoinbonuscode/
+
+https://twitter.com/CodeStudentCoin
+
+https://www.youtube.com/watch?v=TQy5QudIhys
+
+https://www.reddit.com/r/referralcodes/comments/lvy55p/student_coin_bonus_code_sxe22ouqbc/
+
+https://github.com/studentcoinbonuscode/Exyfxvhhmd
+
+https://studentcoinbonuscode.github.io/Exyfxvhhmd/
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-194571179-2">
 </script>
