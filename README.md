@@ -7,6 +7,8 @@
 
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
+# [Twitter News](https://twitter.com/studentcoinbonu)
+
 # [Exu75m3alz](https://studentcoinbonuscode.github.io/Exyfxvhhmd/)
 
 **Student Coin** is in [ICO Launchpad](https://studentcoin.app/?ref=Exyfxvhhmd)
