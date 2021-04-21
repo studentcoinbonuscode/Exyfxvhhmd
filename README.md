@@ -7,7 +7,7 @@
 
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-# [Twitter News](https://twitter.com/studentcoinbonu)
+# [Twitter News](https://twitter.com/codestudentcoin)
 
 # [Exu75m3alz](https://studentcoinbonuscode.github.io/Exyfxvhhmd/)
 
@@ -26,7 +26,7 @@ Student Coin initial coin offering had a successful **quick start raising $3.5M 
 
 https://www.instagram.com/studentcoinbonuscode/
 
-https://twitter.com/CodeStudentCoin
+https://twitter.com/StudentCoinBonu
 
 https://www.youtube.com/watch?v=TQy5QudIhys
 
