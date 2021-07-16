@@ -7,7 +7,7 @@
 
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-# [Twitter News](https://twitter.com/codestudentcoin)
+# [Twitter News](https://twitter.com/studentcoincode)
 
 # [Exu75m3alz](https://studentcoinbonuscode.github.io/Exyfxvhhmd/)
 
